@@ -1,18 +1,19 @@
-### Hi there 👋
+## 🧑🏽 My Name is Muhammad Faisal Farhan 🧑🏽
 
-# My Name is Muhammad Faisal Farhan
+I'm a **Front-end Developer** in [WannaBeStart Organization](https://github.com/WannaBeStart)
 
-<!--
-**uzivurt0/uzivurt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 A little story from my life
 
-Here are some ideas to get you started:
+- 🏡 I live in Indonesia
+- 🎓 Currently Studying in ***Multimedia Nusantara University*** majoring in Informatics
+- 🏢 Currently building an organization with my friends named [WannaBeStart](https://github.com/WannaBeStart)
+- 🚗🏍️ I love automotive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Languages & Frameworks : ✨
+
+<img align="left" alt="HTML5" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="MySQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Node.js" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Laravel" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+
