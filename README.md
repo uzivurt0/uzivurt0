@@ -2,11 +2,11 @@
 
 I'm a **Front-end Developer** in [WannaBeStart Organization](https://github.com/WannaBeStart)
 
-## 📋 A little story from my life
+## 📋 About me
 
 - 🏡 I live in Indonesia
 - 🎓 Currently Studying in ***Multimedia Nusantara University*** majoring in Informatics
-- 🏢 Currently building an organization with my friends ([ran](https://github.com/rans0) and [gery](https://github.com/gerysantoso03)) named [WannaBeStart](https://github.com/WannaBeStart)
+- 🏢 Currently building an organization with my friends named [WannaBeStart](https://github.com/WannaBeStart)
 - 🚗🏍️ I love automotive
 
 ## ✨ Languages & Frameworks : ✨
