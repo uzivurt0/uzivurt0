@@ -23,6 +23,6 @@ I'm a **Front-end Developer** in [WannaBeStart Organization](https://github.com/
 
 ## 🌏 Connect With Me!
 
-<a href="https://instagram.com/sukit.ketam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sukit.ketam" height="60" width="80" /></a> <a href="https://www.linkedin.com/in/muhammad-faisal-frhn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Faisal Farhan" height="60" width="80" /></a>
+<a href="https://instagram.com/sukit.ketam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sukit.ketam" height="55" width="75" /></a> <a href="https://www.linkedin.com/in/muhammad-faisal-frhn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Faisal Farhan" height="55" width="75" /></a>
 
 
