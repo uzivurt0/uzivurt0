@@ -16,8 +16,13 @@ I'm a **Front-end Developer** in [WannaBeStart Organization](https://github.com/
 <img align="left" alt="MySQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Node.js" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Laravel" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🌏 Connect With Me!
 
-[instagram]: https://instagram.com/sukit.ketam
-[linkedin]: https://www.linkedin.com/in/muhammad-faisal-frhn/
+<a href="https://instagram.com/sukit.ketam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sukit.ketam" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/muhammad-faisal-frhn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Faisal Farhan" height="30" width="40" /></a>
+
+
