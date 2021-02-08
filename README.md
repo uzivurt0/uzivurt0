@@ -5,7 +5,7 @@ I'm a **Front-end Developer** in [WannaBeStart Organization](https://github.com/
 
 ## 📋 About me
 
-- 🏡 I live in Indonesia
+- 🏡 I live in South Tangerang, Indonesia
 - 🎓 Currently Studying in ***Multimedia Nusantara University*** majoring in Informatics
 - 🏢 Currently building an organization with my friends named [WannaBeStart](https://github.com/WannaBeStart)
 - 🚗🏍️ I love automotive
